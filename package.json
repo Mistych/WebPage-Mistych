@@ -1,0 +1,8 @@
+{
+    "name": "mistych-static",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "echo 'Static web application'"
+    },
+    "description": "Static web application"
+  }
